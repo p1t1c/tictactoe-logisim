@@ -2,6 +2,7 @@
 
 A fully functional Tic-Tac-Toe game built entirely using digital logic circuits in Logisim-Evolution. The project implements cell state memory, automatic player switching, win condition detection, and a global reset system.
 
+![main](image.png)
 ## Key Features
 
 - **Interactive 3x3 Grid**: Each cell is an independent sub-circuit with its own memory.
@@ -45,14 +46,3 @@ Checks the board state through:
 3. Use the Poke tool (Hand) to press the buttons below the cells.
 4. When a player gets 3 in a row, the corresponding LED (`WIN_x` or `WIN_o`) will light up.
 5. Press the Reset button to start a new game.
-
-## Screenshots
-
-You can add images of your finished circuit here:
-
-- `main.png` - Overview of the board.
-- `logic.png` - Detail of the win gates.
-
----
-
-Project created as part of Digital Logic studies.
